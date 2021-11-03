@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\Tienda de Tecnologias\bin\Debug\Tienda de Tecnologias.exe.config
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\Tienda de Tecnologias\bin\Debug\Tienda de Tecnologias.exe
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\Tienda de Tecnologias\bin\Debug\Tienda de Tecnologias.pdb
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\Tienda de Tecnologias\obj\Debug\Tienda de Tecnologias.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\Tienda de Tecnologias\obj\Debug\Tienda de Tecnologias.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\Tienda de Tecnologias\obj\Debug\Tienda de Tecnologias.exe
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\Tienda de Tecnologias\obj\Debug\Tienda de Tecnologias.pdb
